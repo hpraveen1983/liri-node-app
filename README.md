@@ -18,11 +18,11 @@ Usage
 The following commands run without user input:
 
 
-$ node app.js spotify-this-song
-$ node app.js movie-this
-$ node app.js do-what-it-says
+$ node liri.js spotify-this-song
+$ node liri.js movie-this
+$ node liri.js do-what-it-says
 
 These commands accept user input:
 
-$ node app.js spotify-this-song 'El Paso'
-$ node app.js movie-this 'Snakes On A Plane'
+$ node liri.js spotify-this-song 'El Paso'
+$ node liri.js movie-this 'Snakes On A Plane'
